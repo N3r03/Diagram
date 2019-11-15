@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Diagram.Books" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAEEAQQAAgAAAQAAAAAAAAEAAAABAAAACIEAIAA=</HashCode>
+      <FileName>Books.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.Librarian" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAAEAAAAAAgAAQAAAEAAAAAEIAAEAAAAgA=</HashCode>
+      <FileName>Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.Publisher" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAEAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.User">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgIEAQAAAAgAAAAAAAAAAYgAIBAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.Student" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.Faculty" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.GeneralBook" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.ReferenceBook" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReferenceBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diagram.BookBank" Collapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
